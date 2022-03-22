@@ -9,7 +9,7 @@
   
   inputs.src-lolcat-master.flake = false;
   inputs.src-lolcat-master.owner = "OHermesJunior";
-  inputs.src-lolcat-master.ref   = "refs/heads/master";
+  inputs.src-lolcat-master.ref   = "master";
   inputs.src-lolcat-master.repo  = "lolcat.nim";
   inputs.src-lolcat-master.type  = "github";
   
